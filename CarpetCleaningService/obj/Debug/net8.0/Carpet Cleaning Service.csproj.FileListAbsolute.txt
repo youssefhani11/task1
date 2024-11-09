@@ -1,0 +1,28 @@
+D:\backend\CODE\D1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.exe
+D:\backend\CODE\D1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.deps.json
+D:\backend\CODE\D1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.runtimeconfig.json
+D:\backend\CODE\D1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.dll
+D:\backend\CODE\D1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.pdb
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.AssemblyInfoInputs.cache
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.AssemblyInfo.cs
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.csproj.CoreCompileInputs.cache
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.dll
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\refint\Carpet Cleaning Service.dll
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.pdb
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.genruntimeconfig.cache
+D:\backend\CODE\D1\Carpet Cleaning Service\obj\Debug\net8.0\ref\Carpet Cleaning Service.dll
+D:\backend\New folder\tasks\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.exe
+D:\backend\New folder\tasks\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.deps.json
+D:\backend\New folder\tasks\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.runtimeconfig.json
+D:\backend\New folder\tasks\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.dll
+D:\backend\New folder\tasks\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.pdb
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.AssemblyInfoInputs.cache
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.AssemblyInfo.cs
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.csproj.CoreCompileInputs.cache
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.dll
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\refint\Carpet Cleaning Service.dll
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.pdb
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.genruntimeconfig.cache
+D:\backend\New folder\tasks\Carpet Cleaning Service\obj\Debug\net8.0\ref\Carpet Cleaning Service.dll
